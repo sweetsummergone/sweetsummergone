@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sweetsummergone</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [social network](https://github.com/sweetsummergone/web_project_4)
+- 🔭 I’m currently working on [quotes application](https://github.com/sweetsummergone/quotes-react)
 
 - 🌱 I’m currently learning **React, NodeJS in Yandex School**
 
