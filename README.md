@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm sweetsummergone</h1>
+<h1 align="center">Hi 👋, I'm Aleks</h1>
 <h3 align="center">A passionate frontend developer from Ukraine🇺🇦</h3>
 
-- 🔭 I’m currently working on [News Application Frontend](https://github.com/sweetsummergone/news-explorer-frontend) and [backend](https://github.com/sweetsummergone/news-explorer-api)
+- 🔭 My pet project is [News Application Frontend](https://github.com/sweetsummergone/news-explorer-frontend) and [backend](https://github.com/sweetsummergone/news-explorer-api)
 
-- 🌱 I’m currently learning **React, NodeJS in Yandex School**
+- 🌱 I’m learning **TypeScript, React, Redux**
+
+- 👨‍💻 I'm working in **AymoLive** with building full-stack artists streaming platform
 
 - 👯 I’m looking to collaborate on [2048 game](https://github.com/sweetsummergone/2048-react)
 
